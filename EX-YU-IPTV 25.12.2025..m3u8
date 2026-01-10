@@ -1,0 +1,340 @@
+#EXTM3U
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a7fbf15ad668dc2ec1d532915071d713.png",EX-YU: AMC HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302969.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a307ea73419705a97901cd9a5aac657d.png",EX-YU: AXN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302971.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/d31f2ea47e25729760f6008b1a536233.png",EX-YU: AXN SPIN HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302972.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b59db50e5f0ec9676d0a330641d0ddab.png",EX-YU: Cinestar TV 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302977.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/092da98c4ddecd1cef2f5c7b332938f1.png",EX-YU: DA Vinci HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302984.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/d8373c48c836734cfa50a4297b244808.png",EX-YU: DIVA HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302987.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: Dobra HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302988.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: Dobra Exclusive HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302990.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: Dobra Sevdah HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302994.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/05ca966f4fb49e37f0b4f88403e30487.png",EX-YU: E! HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302996.ts
+#EXTINF:-1 group-title="EX-YU",EX-YU: Elita7 LIVE 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302997.ts
+#EXTINF:-1 group-title="EX-YU",EX-YU: Elita7 LIVE 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302998.ts
+#EXTINF:-1 group-title="EX-YU",EX-YU: Elita7 LIVE 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302999.ts
+#EXTINF:-1 group-title="EX-YU",EX-YU: Elita7 LIVE 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303000.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d7d94b3c75f21569ce4c905a26dbb9da.png",EX-YU: LOV I Ribolov HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303020.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e40dab14fc6b942993047beca01aeff0.png",EX-YU: Minimax HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303021.ts
+#EXTINF:-1 group-title="EX-YU",EX-YU: MOJA TV Premijer LIGA HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303022.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7b6be9418889f252f185ee7d8eb38026.png",EX-YU: NOVA Series HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303027.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/6d501cfee93b507c966f126995c65a92.png",EX-YU: RTL HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303028.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/8ca70871fba540aca814f52e8dee23bb.png",EX-YU: RTL 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303029.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0ce82322d549d89f57c3b82bcee47584.png",EX-YU: RTL Adria HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303030.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/9dd5bb39c2126b7f6090eebe6978cc5f.png",EX-YU: RTL Crime HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303031.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/26617aa16e3e8cc62527b7c528c4a991.png",EX-YU: RTL Kockica HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303032.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/97e4959158709ec29fd8c882a53e416c.png",EX-YU: RTL Living HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303033.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/bc095e83e1b90d8d762aa0154611a489.png",EX-YU: RTL Passion HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303034.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: RTL PLUS HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303035.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec13ed833b82c75fe5400badb674b03a.png",EX-YU: TV 1000 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303044.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7317750c89b11156dbda7cd51b7f789c.jpg",EX-YU: TV Istok HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303045.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f2bfdc7a7d51d835fd49eea308a3d302.png",EX-YU: Viasat Explore HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303046.ts
+#EXTINF:-1 group-title="EX-YU" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/659c11816d46f52fd2068d3ebc5b25aa.png",EX-YU: Viasat Nature HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303047.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b984bc523b5f1ee1b32e47ac440f67bc.png",EX-YU: Cinemax HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302975.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3919edfd5da73cd900e3764172e5a498.png",EX-YU: Cinemax 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302976.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4b51657b9ee6443b15565e62975a4422.png",EX-YU: Cinestar TV 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302978.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0c3c3d32f53c7f0755ea1f271b8ba044.png",EX-YU: Cinestar TV Action HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302979.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/12ecab6da82dd947aac4b88c3e75046c.png",EX-YU: Cinestar TV Comedy HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302980.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6a302bb801fa34a78a5501ca6314b810.png",EX-YU: Cinestar TV Premiere 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302981.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: EURO Cinema 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303001.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: EURO Cinema 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303002.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: EURO Cinema 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303003.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d461a3b552b34cb59d6580488e8a681c.png",EX-YU: Filmbox Extra HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303007.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/576da488b19c5d83d0fe43f1dc4877cd.png",EX-YU: Filmbox Stars HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303008.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fc3d37efb98f7287022f6403186839ed.png",EX-YU: FOX Crime HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303011.ts
+#EXTINF:-1 group-title="EX-YU ➾ MOVIES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f69047b36af616f69b3ac9efe338427f.png",EX-YU: FOX Movies HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303013.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/429269e424f48936c578adbffef473f6.png",EX-YU: Arena Sport 6 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302970.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8ae3c780cd27931846f9a795be65c622.png",EX-YU: Eurosport 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303004.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7d8b0a8869400a5229a59e2760b54ded.png",EX-YU: Eurosport 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303005.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f2162c891092e2ac6253ca3df64b0e10.png",EX-YU: Sport KLUB 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303036.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/1b4e75d0825b018a4be6fc2de7e0b4e6.png",EX-YU: Sport KLUB 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303037.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/45eafebb73a312441eddf47c91aa7784.jpg",EX-YU: Sport KLUB 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303038.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/bb3f900e11e633eda727a7b3a4961380.jpg",EX-YU: Sport KLUB 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303039.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: Sport KLUB 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303040.ts
+#EXTINF:-1 group-title="EX-YU ➾ SPORTS" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png",EX-YU: Sport KLUB 8 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303041.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5d0eaa2edacf283052ac5b98537bc1ff.png",EX-YU: BBC Earth HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302974.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ee747135fa9d104818f8e6f83583a2b0.png",EX-YU: Crime+ Investigation HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302983.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/aa3ac8dce611f88c296e00edb622a153.png",EX-YU: Discovery Science HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302985.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9c740d4db9dae066a38744f41f6c223c.png",EX-YU: Discovery World HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302986.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cd137363c14d729f15419f72e7ab316d.png",EX-YU: Docubox HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302995.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/69199deeefa328f04174c6c5f1d06964.png",EX-YU: FOX HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303010.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30ec0bbf0c235347697c9100d7c8cecc.png",EX-YU: FOX LIFE HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303012.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c1ea09384edfcfd71350d7592a3ee676.png",EX-YU: HBO HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303014.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dee196e6b4452f1730db3c27ac9b7659.png",EX-YU: HBO 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303015.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9f62bc0304da1948ac94b94337149442.png",EX-YU: HBO 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303016.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/d584e4fbda635126e768c9c141393dba.png",EX-YU: History HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303017.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d9340eb8e0e99b1adb3af9d63d68713e.png",EX-YU: History 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303018.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/851fc1f5623846119e620b953ccbd1ab.png",EX-YU: Investigation Discovery HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303019.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1a8a2402478eaf6149713e5faad06946.png",EX-YU: NAT GEO HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303023.ts
+#EXTINF:-1 group-title="EX-YU ➾ DISCOVERY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3400587dd3c8901b1f37db760ded9f0b.png",EX-YU: NAT GEO WILD HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303024.ts
+#EXTINF:-1 group-title="EX-YU ➾ FOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2925b2f8712219bfd8f1817c8cf9bc64.png",EX-YU: 24 Kitchen HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302968.ts
+#EXTINF:-1 group-title="EX-YU ➾ KIDS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/99ae2d19f415f4f322320da3ba451d96.png",EX-YU: BABY TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302973.ts
+#EXTINF:-1 group-title="EX-YU ➾ KIDS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/64ddfe1ff8937a8582c2a1d4f9bfa3d2.png",EX-YU: NICK JR HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303025.ts
+#EXTINF:-1 group-title="EX-YU ➾ KIDS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fe95c08a07f3ca8d6a38f534bb221946.png",EX-YU: Nickelodeon HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303026.ts
+#EXTINF:-1 group-title="EX-YU ➾ KIDS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0b663cb2a9792e2c035fb49a0eda6e36.png",EX-YU: TOM AND Jerry HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303043.ts
+#EXTINF:-1 group-title="✯SOCCER✯ FOOTBALL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png",UK: LFC TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/290373.ts
+#EXTINF:-1 group-title="✯SOCCER✯ FOOTBALL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png",ES: Multideporte HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293006.ts
+#EXTINF:-1 group-title="✯SOCCER✯ FOOTBALL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png",UK: SKY Sports Football HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/290377.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0de9b5c2e3ed2fc0346a675d5bfde849.png",SE: V Sport GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/333100.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5aa846ad8e3b339954183db98908c80a.png",CZ: GOLF Channel HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/332957.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5901f5d9b6bb1640c6e7e8a1b44e138e.png",PL: GOLF Channel HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316237.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/913be3dd5506bb664db6b276ae3131be.png",EX-YU: Sport KLUB GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303042.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d5b56071d971d8a599b10a1899d5d3a.png",FR: Golf+ HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/301901.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4563870d73aeb6a4e7dc80094393537e.png",DE: SKY Sport GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293494.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",US: GOLF Kingdom HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/291057.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png",IT: SKY Sport GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/293283.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5164471a041a09ae2a58dbfc5978f766.png",US: GOLF Channel / NBC GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/291617.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png",UK: SKY Sports GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/290420.ts
+#EXTINF:-1 group-title="✯GOLF✯" tvg-logo="https://i.imgur.com/VJy6Mjs.png",NL | Ziggo Sport GOLF HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/187438.ts
+#EXTM3U
+#EXTINF:-1 ,EX-YU: AMC HD
+http://filex.tv:8080//live/Home329/Sohailhome/302969.ts
+#EXTINF:-1 ,EX-YU: AXN HD
+http://filex.tv:8080//live/Home329/Sohailhome/302971.ts
+#EXTINF:-1 ,EX-YU: AXN SPIN HD
+http://filex.tv:8080//live/Home329/Sohailhome/302972.ts
+#EXTINF:-1 ,EX-YU: Dobra Crnogorska HD
+http://filex.tv:8080//live/Home329/Sohailhome/302989.ts
+#EXTINF:-1 ,EX-YU: Dobra Exclusive HD
+http://filex.tv:8080//live/Home329/Sohailhome/302990.ts
+#EXTINF:-1 ,EX-YU: Dobra Hrvatska HD
+http://filex.tv:8080//live/Home329/Sohailhome/302991.ts
+#EXTINF:-1 ,EX-YU: Dobra Islamska HD
+http://filex.tv:8080//live/Home329/Sohailhome/302992.ts
+#EXTINF:-1 ,EX-YU: Dobra Muzicka HD
+http://filex.tv:8080//live/Home329/Sohailhome/302993.ts
+#EXTINF:-1 ,EX-YU: Dobra Sevdah HD
+http://filex.tv:8080//live/Home329/Sohailhome/302994.ts
+#EXTINF:-1 ,EX-YU: E! HD
+http://filex.tv:8080//live/Home329/Sohailhome/302996.ts
+#EXTINF:-1 ,EX-YU: Elita7 LIVE 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302997.ts
+#EXTINF:-1 ,EX-YU: Elita7 LIVE 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302998.ts
+#EXTINF:-1 ,EX-YU: Elita7 LIVE 3 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302999.ts
+#EXTINF:-1 ,EX-YU: Elita7 LIVE 4 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303000.ts
+#EXTINF:-1 ,EX-YU: LOV I Ribolov HD
+http://filex.tv:8080//live/Home329/Sohailhome/303020.ts
+#EXTINF:-1 ,EX-YU: Minimax HD
+http://filex.tv:8080//live/Home329/Sohailhome/303021.ts
+#EXTINF:-1 ,EX-YU: MOJA TV Premijer LIGA HD
+http://filex.tv:8080//live/Home329/Sohailhome/303022.ts
+#EXTINF:-1 ,EX-YU: NOVA Series HD
+http://filex.tv:8080//live/Home329/Sohailhome/303027.ts
+#EXTINF:-1 ,EX-YU: RTL HD
+http://filex.tv:8080//live/Home329/Sohailhome/303028.ts
+#EXTINF:-1 ,EX-YU: RTL 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303029.ts
+#EXTINF:-1 ,EX-YU: RTL Adria HD
+http://filex.tv:8080//live/Home329/Sohailhome/303030.ts
+#EXTINF:-1 ,EX-YU: RTL Crime HD
+http://filex.tv:8080//live/Home329/Sohailhome/303031.ts
+#EXTINF:-1 ,EX-YU: RTL Kockica HD
+http://filex.tv:8080//live/Home329/Sohailhome/303032.ts
+#EXTINF:-1 ,EX-YU: RTL Living HD
+http://filex.tv:8080//live/Home329/Sohailhome/303033.ts
+#EXTINF:-1 ,EX-YU: RTL Passion HD
+http://filex.tv:8080//live/Home329/Sohailhome/303034.ts
+#EXTINF:-1 ,EX-YU: RTL PLUS HD
+http://filex.tv:8080//live/Home329/Sohailhome/303035.ts
+#EXTINF:-1 ,EX-YU: TV 1000 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303044.ts
+#EXTINF:-1 ,EX-YU: TV Istok HD
+http://filex.tv:8080//live/Home329/Sohailhome/303045.ts
+#EXTINF:-1 ,EX-YU: Viasat Explore HD
+http://filex.tv:8080//live/Home329/Sohailhome/303046.ts
+#EXTINF:-1 ,EX-YU: Viasat Nature HD
+http://filex.tv:8080//live/Home329/Sohailhome/303047.ts
+#EXTINF:-1 ,EX-YU: Cinemax HD
+http://filex.tv:8080//live/Home329/Sohailhome/302975.ts
+#EXTINF:-1 ,EX-YU: Cinemax 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302976.ts
+#EXTINF:-1 ,EX-YU: Cinestar TV 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302978.ts
+#EXTINF:-1 ,EX-YU: Cinestar TV Action HD
+http://filex.tv:8080//live/Home329/Sohailhome/302979.ts
+#EXTINF:-1 ,EX-YU: Cinestar TV Comedy HD
+http://filex.tv:8080//live/Home329/Sohailhome/302980.ts
+#EXTINF:-1 ,EX-YU: Cinestar TV Premiere 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302981.ts
+#EXTINF:-1 ,EX-YU: Cinestar TV Premiere 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302982.ts
+#EXTINF:-1 ,EX-YU: EURO Cinema 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303001.ts
+#EXTINF:-1 ,EX-YU: EURO Cinema 3 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303002.ts
+#EXTINF:-1 ,EX-YU: EURO Cinema 4 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303003.ts
+#EXTINF:-1 ,EX-YU: Filmbox Arthouse HD
+http://filex.tv:8080//live/Home329/Sohailhome/303006.ts
+#EXTINF:-1 ,EX-YU: Filmbox Extra HD
+http://filex.tv:8080//live/Home329/Sohailhome/303007.ts
+#EXTINF:-1 ,EX-YU: Filmbox Stars HD
+http://filex.tv:8080//live/Home329/Sohailhome/303008.ts
+#EXTINF:-1 ,EX-YU: FOX Crime HD
+http://filex.tv:8080//live/Home329/Sohailhome/303011.ts
+#EXTINF:-1 ,EX-YU: Arena Sport 6 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302970.ts
+#EXTINF:-1 ,EX-YU: Eurosport 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303004.ts
+#EXTINF:-1 ,EX-YU: Sport KLUB 3 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303037.ts
+#EXTINF:-1 ,EX-YU: Sport KLUB 4 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303038.ts
+#EXTINF:-1 ,EX-YU: Sport KLUB 5 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303039.ts
+#EXTINF:-1 ,EX-YU: Sport KLUB 7 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303040.ts
+#EXTINF:-1 ,EX-YU: Sport KLUB 8 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303041.ts
+#EXTINF:-1 ,EX-YU: BBC Earth HD
+http://filex.tv:8080//live/Home329/Sohailhome/302974.ts
+#EXTINF:-1 ,EX-YU: Crime+ Investigation HD
+http://filex.tv:8080//live/Home329/Sohailhome/302983.ts
+#EXTINF:-1 ,EX-YU: Discovery Science HD
+http://filex.tv:8080//live/Home329/Sohailhome/302985.ts
+#EXTINF:-1 ,EX-YU: FOX HD
+http://filex.tv:8080//live/Home329/Sohailhome/303010.ts
+#EXTINF:-1 ,EX-YU: HBO HD
+http://filex.tv:8080//live/Home329/Sohailhome/303014.ts
+#EXTINF:-1 ,EX-YU: History HD
+http://filex.tv:8080//live/Home329/Sohailhome/303017.ts
+#EXTINF:-1 ,EX-YU: History 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303018.ts
+#EXTINF:-1 ,EX-YU: Investigation Discovery HD
+http://filex.tv:8080//live/Home329/Sohailhome/303019.ts
+#EXTINF:-1 ,EX-YU: NAT GEO WILD HD
+http://filex.tv:8080//live/Home329/Sohailhome/303024.ts
+#EXTINF:-1 ,EX-YU: FOOD Network HD
+http://filex.tv:8080//live/Home329/Sohailhome/303009.ts
+#EXTINF:-1 ,EX-YU: BABY TV HD
+http://filex.tv:8080//live/Home329/Sohailhome/302973.ts
+#EXTINF:-1 ,EX-YU: TOM AND Jerry HD
+http://filex.tv:8080//live/Home329/Sohailhome/303043.ts
+#EXTINF:-1 ,UK: LFC TV HD
+http://filex.tv:8080//live/Home329/Sohailhome/290373.ts
+#EXTINF:-1 ,ES: Multideporte HD
+http://filex.tv:8080//live/Home329/Sohailhome/293006.ts
+#EXTINF:-1 ,UK: SKY Sports Football HD
+http://filex.tv:8080//live/Home329/Sohailhome/290377.ts
+#EXTINF:-1 ,DK: V Sport GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/333168.ts
+#EXTINF:-1 ,SE: V Sport GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/333100.ts
+#EXTINF:-1 ,CZ: GOLF Channel HD
+http://filex.tv:8080//live/Home329/Sohailhome/332957.ts
+#EXTINF:-1 ,NL: Ziggo Sport GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/303691.ts
+#EXTINF:-1 ,PL: GOLF Channel HD
+http://filex.tv:8080//live/Home329/Sohailhome/316237.ts
+#EXTINF:-1 ,LA: GOLF Channel HD
+http://filex.tv:8080//live/Home329/Sohailhome/303346.ts
+#EXTINF:-1 ,EX-YU: Sport KLUB GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/303042.ts
+#EXTINF:-1 ,FR: Golf+ HD
+http://filex.tv:8080//live/Home329/Sohailhome/301901.ts
+#EXTINF:-1 ,FR: GOLF Channel HD
+http://filex.tv:8080//live/Home329/Sohailhome/301900.ts
+#EXTINF:-1 ,DE: SKY Sport GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/293494.ts
+#EXTINF:-1 ,US: GOLF Kingdom HD
+http://filex.tv:8080//live/Home329/Sohailhome/291057.ts
+#EXTINF:-1 ,IT: SKY Sport GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/293283.ts
+#EXTINF:-1 ,US: GOLF Channel / NBC GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/291617.ts
+#EXTINF:-1 ,UK: SKY Sports GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/290420.ts
+#EXTINF:-1 ,NL | Ziggo Sport GOLF HD
+http://filex.tv:8080//live/Home329/Sohailhome/187438.ts
+#EXTINF:-1 ,30A Golf Kingdom
+http://filex.tv:8080//live/Home329/Sohailhome/834694.ts
+#EXTINF:-1 ,Golf Channel
+http://filex.tv:8080//live/Home329/Sohailhome/834797.ts
