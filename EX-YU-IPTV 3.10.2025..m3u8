@@ -1,0 +1,1211 @@
+#EXTM3U
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv1-logo.-",HRT 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98899.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv1-logo.-",HRT 1 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56997.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv1-logo.-",HRT 1 FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56996.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv2-logo.-",HRT 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98898.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv2-logo.-",HRT 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56995.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv2-logo.-",HRT 2 FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56994.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv3-logo.-",HRT 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98897.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv3-logo.-",HRT 3 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56993.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv3-logo.-",HRT 3 FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56992.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv4-logo.-",HRT 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98911.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv4-logo.-",HRT 4 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56991.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/htv4-logo.-",HRT 4 FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56990.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/HRTInt_HR_logo.-",HRT INT. FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56989.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.-",NOVA TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56988.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.-",NOVA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56987.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.-",NOVA TV FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56986.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Doma_TV_HR_logo.-",DOMA TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56985.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Doma_TV_HR_logo.-",DOMA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56984.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Doma_TV_HR_logo.-",DOMA TV FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56983.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_HR_logo.-",RTL FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56982.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_HR_logo.-",RTL HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56981.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_HR_logo.-",RTL FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56980.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA",RTL 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56979.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.-",RTL 2 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56978.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.-",RTL 2 FHD (HEVC)
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56977.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_Adria_HR_logo.-",RTL ADRIA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110049.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_Adria_HR_logo.-",RTL ADRIA FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100318.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_Crime_HR_logo.-",RTL CRIME FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56972.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_Living_HR_logo.-",RTL LIVING FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56971.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTL_Passion_HR_logo.-",RTL PASSION FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56970.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/n1-logo.-",N1 HR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56969.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/n1-logo.-",N1 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56968.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Nova_Cinema_HR_logo.-",NOVA TV CINEMA FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/82511.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Nova_Family_HR_logo.-",NOVA TV FAMILY FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/82510.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/NOVA_TV_HR_logo.-",NOVA PLUS HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105703.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Croatia_World_logo.-",RTL CROATIA WORLD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105335.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/100x64/4/img/kanali-logo/rtl-plus-logo.-",RTL + HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87155.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://i.postimg.cc/nVT79t43/RTL-PLAY-PREMIUM.-",RTL PLAY PREMIUM HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88732.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.-",Z1 HR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56965.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Osjecka_TV_HR_logo.-",OSJECKA TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56963.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Slavonska_TV_HR_logo.-",STV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56962.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Plava_vinkovacka_HR_logo.-",PLAVA VINKOVACKA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56961.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Varazdinska_TV_HR_logo.-",VTV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56959.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/LibertasTV.-",LIBERTAS TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56958.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Laudato_TV_HR_logo.-",LAUDATO TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56957.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Maria_Vision_HR_logo_v2.-",MARIA VISION MEDUGORJE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88388.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Maria_Vision_HR_logo_v2.-",MARY TV MEDUGORJE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/106108.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/TV_Jadran_HR_logo.-",JADRAN TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98854.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Televizija_Dalmacija_HR_logo.-",DALMACIJA TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98853.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/MrezaZG_HR_logo.-",MREZA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56952.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="-cdn/400x200/4/img/kanali-logo/OTV_HR_logo.-",OTV / JABUKA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110048.ts
+#EXTINF:-1 group-title="HRVATSKA/CROATIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crotv-hd-de.-",CRO TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56953.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/BHT1_BA_logo.-",BHT 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57043.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",BHT 1 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57042.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/12/federalna-tv.-",FEDERALNA TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57041.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/12/federalna-tv.-",FEDERALNA TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57040.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/OBN_BA_logo.-",OBN HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57039.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/OBN_BA_logo.-",OBN FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57038.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Hayat_TV_BA_logo.-",H TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57037.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Hayat_TV_BA_logo.-",H TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57036.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Hayat_Love_Box_BA_logo.-",H LOVE BOX HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105717.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Hayat_Stil_i_zivot_BA_logo.-",H STIL I ZIVOT HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105716.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Nova_BH_BA_logo_v2.-",NOVA BH HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57035.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Nova_BH_BA_logo_v2.-",NOVA BH FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57034.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Al_Jazeera_Balkans_BA_logo.-",AL JAZEERA BALKANS HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57033.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Al_Jazeera_Balkans_BA_logo.-",AL JAZEERA BALKANS FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88582.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",PINK BH
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57032.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Pink_BH_BA_logo.-",PINK BH HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100472.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",N1 BH
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57031.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/n1-logo.-",N1 BH FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57030.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/BN_BA_logo.-",BN FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57028.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/BN_BA_logo.-",BN
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88689.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/BN_2_HD_BA_logo_v2.-",BN 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57027.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",FACE TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57025.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/FACE_TV_BA_logo.-",FACE TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57024.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Hayat_2_BA_logo_v2.-",H TV 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57023.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.-",RTV USK HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57022.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/1a/Logo_of_RTV_TK.-",RTV TK HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57020.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://www.tvsa.ba/wp-content/uploads/2020/02/logoweb.-",TV SARAJEVO HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57017.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2020/08/mtv-igman.-",MTV IGMAN HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57018.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Bir_TV_BA_logo.-",BIR TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57019.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Televizija_5_BA_logo.-",TELEVIZIJA 5 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57006.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTV_ZE_BA_logo_v2.-",RTV ZENICA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57016.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/NTV_IC_BA_logo.-",NTVIC KAKANJ HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57015.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTV_HB_BA_logo.-",RTV HERCEG BOSNE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57014.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/K3_BA_logo.-",K3 PRNJAVOR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57013.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",ATV BANJALUKA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57012.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTV_Slon_BA_logo.-",RTV SLON HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57011.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/TV_Alfa_BA_logo.-",TV ALFA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57010.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/RTV_HIT_BA_logo.-",RTV HIT BRCKO HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57009.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Tatabrada_BA_logo.-",TATABRADA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57007.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/Kanal_6_BA_logo.-",KANAL 6 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83825.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/12/03/23/48/52/l_o_kanal_xl.-",O KANAL HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57004.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://supertelevizija.com/wp-content/uploads/2023/03/cropped-SUPER-MEDIA-TV-9-e1606746444475-236x79.-",SUPER TV MEDIA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57005.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2022/12/hema.-",HEMA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86206.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",RTV CAZIN HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/102989.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Sana.-/640px-Radio_Sana.-",RTV SANA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/102988.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="-cdn/400x200/4/img/kanali-logo/TV_Visoko_BA_logo_v2.-",RTV VISOKO HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57003.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://rtvbugojno.ba/wp-content/uploads/2021/04/rtvbugojno.-",RTV BUGOJNO HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57002.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://podrinjemedia.ba/wp-content/uploads/2020/04/PodrinjeMediaLogo-2-300x275-1.-",PODRINJE TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57000.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",PRO TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105203.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA",NEON TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110581.ts
+#EXTINF:-1 group-title="BOSNA I HERCEGOVINA/BOSNIA AND HERZEGOVINA" tvg-logo="https://sviraradio.com/logo/134-radio-glas-drine.-",GLAS DRINE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/56999.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS 1 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57092.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57091.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS 3 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57090.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57094.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57093.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS 3
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86245.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57088.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70760.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTRS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57087.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTRS PLUS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57086.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA KICK FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/92836.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA MAX FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/92838.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA PLUS FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/92840.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA WORLD FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/92839.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA LIFE FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/92837.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",PRVA FILES FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/92835.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",b92 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70898.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",N1 SR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57077.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",N1 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57076.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57075.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70764.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY DRUSTVO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57074.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY ZIVOT
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57073.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY ZEMLJA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105194.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY MUZIKA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57072.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HAPPY REALITY 24/7
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57071.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",NOVA S HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57069.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",NOVA S FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57068.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",BLIC TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86246.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",NARODNA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/82997.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",INFORMER TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/97690.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",NOVA SERIES FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83259.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",EURONEWS SRBIJA FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57067.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS SVET HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57066.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS DRAMA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57065.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS TREZOR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57064.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS ZIVOT
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57063.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS KOLO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57062.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS MUZIKA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57061.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS POLETARAC
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57059.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTS NAUKA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86250.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTV VOJVODINA 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57058.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTV VOJVODINA 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57057.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",INSAJDER TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86298.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",UNA TV SR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57056.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",RTV NOVI PAZAR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57054.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",SANDZAK TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57053.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",KURIR TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57052.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HYPE TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/97949.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HYPE TV 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/97948.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",K1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57051.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",LOTEL
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100489.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",HRAM TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57049.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",TANJUG HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57046.ts
+#EXTINF:-1 group-title="SRBIJA/SERBIA",TV ISTOK
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57045.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57131.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57130.ts
+#EXTINF:-1 group-title="PINK PAKET",RED TV (PINK 2) FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57129.ts
+#EXTINF:-1 group-title="PINK PAKET",Vesti (PINK 3) FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57128.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK REALITY
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57127.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 1 24/7 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100258.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 1 24/7
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89667.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 2 24/7 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100257.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 2 24/7
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89666.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 3 24/7 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100256.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 3 24/7
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89665.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 4 24/7 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100255.ts
+#EXTINF:-1 group-title="PINK PAKET",ELITA 4 24/7
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89664.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK ACTION
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57122.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK COMEDY
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57121.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK MOVIES
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57120.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK FILM
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57119.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK HORROR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57118.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK PREMIUM FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57117.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK PREMIUM HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57116.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK THRILLER
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57115.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK WESTERN
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57114.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK SCI FI FANTASY
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57113.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK CRIME & MISTERY
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57112.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK ROMANCE
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57111.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK SERIJE
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57110.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK SOAP
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57109.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK WORLD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57108.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK WORLD CINEMA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57107.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK PLUS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57106.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK EXTRA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57105.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK CLASSIC
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57104.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK FAMILY
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57103.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK FASHION
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57102.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK SHOW
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57101.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK PEDIA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57100.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK LOL
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57099.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK HAHA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57098.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK ZABAVA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57097.ts
+#EXTINF:-1 group-title="PINK PAKET",PINK STYLE
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57096.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR PREMIERE FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87153.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR PREMIERE 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87152.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINEMAX FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87274.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINEMAX 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87273.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",HBO FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57168.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",HBO 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57167.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",HBO 3 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57166.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",HBO MAX FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57165.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR TV 1 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89672.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR TV 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89671.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR A&T FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89670.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR TV COMEDY FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57156.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",CINESTAR TV FANTASY FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57160.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",STAR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57150.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",STAR LIFE FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57149.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",STAR CRIME FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57148.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",STAR MOVIES FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57147.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",SUPERSTAR TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70601.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",SUPERSTAR 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100418.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",SUPERSTAR 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/106654.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",BBC FIRST HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100616.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",TV 1000
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57144.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",TDC DIZI HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105137.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",DIVA TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57143.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",KINO TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57142.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",SCI FI HD PL
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57141.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",AXN ADRIA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57140.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",AXN SPIN
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57139.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",KLASIK TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57138.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",PICKBOX TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57137.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",AMC HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57136.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",M1 FILM
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57135.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",M1 GOLD HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57134.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",FILMBOX PREMIUM
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100004.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",FILMBOX ARTHOUSE
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93532.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",FILMBOX STARS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93533.ts
+#EXTINF:-1 group-title="FILMSKI/MOVIES",FILMBOX EXTRA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93534.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",EURO CINEMA 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86270.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",EURO CINEMA 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86269.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",EURO CINEMA 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86268.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",EURO CINEMA 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86267.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Andrija and Andjelka
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77892.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",normalan
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/82676.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Konak kod Hilmije
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77870.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Dobro jutro komsija
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77873.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Komsije
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77875.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Na granici
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77876.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Nasa mala klinika
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77877.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Top lista nadrealista
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77879.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Vratice se rode
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77880.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Branko Kockica
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77871.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Cimmer fraj
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77872.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alarm for Cobra 11
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77881.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 WW2 in Colour
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77882.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Only Fools and Horses / Mucke
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/79853.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Friends
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/79854.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Two and a Half Men
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86241.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Kako sam upoznao vasu majku
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/79855.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 South Park
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/82655.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Cobra Kai
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77902.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Jugoslovenske Tajne Sluzbe
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77883.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Adolf Hitler: The Greatest Story Never Told
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77884.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Home Alone/Sam u kuci
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83348.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alkemija Balkana BiH
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77885.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alkemija Balkana HR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77886.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alkemija Balkana Srbija
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77887.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alkemija Balkana Slovenija
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77888.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alkemija Balkana Crna Gora
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77889.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 Alkemija Balkana Kosovo
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77890.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",24/7 BBC Smrt Jugoslavije
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77891.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP CINEMA 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110097.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP CINEMA 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110096.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP CINEMA 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110095.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP CINEMA 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110094.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP FILM 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110093.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP FILM 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110092.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP FILM 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110091.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP FILM 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110090.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP PREMIERE 1 EXYU HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110081.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP PREMIERE 2 EXYU HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110079.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP PREMIERE 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110080.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP PREMIERE 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110078.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP PREMIERE 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110077.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP SELECT 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110076.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP SELECT 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110075.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP SELECT 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110074.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP SELECT 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110073.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP MOVIES 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110089.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP MOVIES 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110088.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP MOVIES 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110087.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP MOVIES 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110086.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP NETFLIX 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110085.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP NETFLIX 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110084.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP NETFLIX 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110083.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP NETFLIX 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110082.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TOP CLASSIC 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110072.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TOP CLASSIC 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110071.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TOP CLASSIC 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110070.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TOP CLASSIC 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110054.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TURKEY 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110053.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TURKEY 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110052.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TURKEY 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110051.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",NETIP TURKEY 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110050.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY ACTION HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110069.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY ADVENTURE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110068.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY COMEDY HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110067.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY CRIME HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110066.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY DRAMA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110065.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY FANTASY HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110064.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY FILM HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110063.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY HORROR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110062.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY MARVEL UNIVERSE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110061.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY PREMIERE 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110060.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY PREMIERE 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110059.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY ROMANCE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110058.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY SCI-FI HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110057.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY THRILLER HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110056.ts
+#EXTINF:-1 group-title="EX YU KINO 24/7",BALKAN SKY WAR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110055.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DISCOVERY CHANNEL FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70610.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DISCOVERY TLC HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57295.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DISCOVERY ID FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57294.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DISCOVERY SCIENCE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57293.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DISCOVERY TX HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100284.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",NATIONAL GEOGRAPHIC FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70603.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",NAT GEO WILD FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70602.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",ANIMAL PLANET FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98920.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",HISTORY FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70605.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",HISTORY 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70604.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",VIASAT HISTORY FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93528.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",VIASAT EXPLORER FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93530.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",VIASAT NATURE FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93529.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY" tvg-logo="http:/",CRIME & INVESTIGATION
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57282.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",LOV I RIBOLOV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57281.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",24 KITCHEN FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57279.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",PINK KUVAR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57278.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DOX HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105139.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",E! ENTERTAINMENT HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57277.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",EPIC DRAMA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57276.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",BBC EARTH FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57275.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",FOOD NETWORK HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83556.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",AGRO TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/82513.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DA VINCI LEARNING FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57273.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DOKU TV FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57272.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",DOCUBOX FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93527.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",HGTV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57271.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",BALKAN TRIP HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57269.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",TRAVEL CHANNEL HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57270.ts
+#EXTINF:-1 group-title="DOKUMENTARNI/DOCUMENTARY",HRT DOCUMENTARY HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57267.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",RTL KOCKICA FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57320.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",NICK JR SR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57319.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",NICK JR HR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57318.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",NICKELODEON HR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57317.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",NICKELODEON SR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57316.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",MINI TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100020.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",NICKTOONS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100021.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",MINIMAX
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57315.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",H OVCI HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57314.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",PINK KIDS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57313.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",PINK SUPER KIDS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57312.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",IDJ KIDS HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/79516.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",TOON KIDS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86205.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",BRAVO KIDS HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110360.ts
+#EXTINF:-1 group-title="DJECIJI/KIDS",BABY TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57311.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 TOM AND JERRY SHOW HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98880.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP CARTOON 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110374.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP CARTOON 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110373.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP CARTOON 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110372.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP CARTOON 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110371.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP BOOBA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110375.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP DUSKO DUGOUSKO HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110370.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP GRIZZY HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110369.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP MASA I MEDVJED HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110368.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP MICKEY MOUSE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110367.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP OGGI HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110366.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP SIMPSONS HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110365.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP SOUTH PARK HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110364.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP SPUZVA BOB HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110363.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP STRUMPFOVI HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110362.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",NETIP SUNNY BUNNIES HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/110361.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Family Guy
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47972.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 The Simpsons
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47973.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Ben 10
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47975.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Bolek and Lolek
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47976.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Alvinnn!!! and The Chipmunks
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47977.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Futurama
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47978.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Lucky Luke
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47979.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Mickey Mouse Clubhouse
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47980.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 My Little Pony
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47981.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 PAW Patrol
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47983.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Peppa Pig
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47984.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Pingu
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47985.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Rick and Morty
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47986.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Shaun the Sheep
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47987.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Teenage Mutant Ninja Turtles
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47989.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Tom i Jerry
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47990.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Tomica i prijatelji
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47991.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Zlikavci
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47992.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Asterix i Obelix
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47994.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Garfield
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47995.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Hlapic
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47996.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Kung Fu Panda
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47997.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Majstor Mato
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/47998.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Pcelica Maja
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/48000.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Spuzva Bob skockani
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/48001.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 Tractor Tom
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/48003.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 The Bugs Bunny Show
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/48004.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 COCOMELON
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57310.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 HEY KIDS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57306.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 MASA I MEDO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57305.ts
+#EXTINF:-1 group-title="24/7 DJECIJI/KIDS",24/7 PSICI U OPHODNJI
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57302.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",GRAND NARODNA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57370.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",GRAND NOSTALGIJA FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83347.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",H FOLK BOX HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57368.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",H MUSIC BOX HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57367.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",DM SAT
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57366.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",OTV VALENTINO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57365.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",OTV VALENTINO ETNO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57364.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",BN MUSIC FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57363.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",IDJ TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57362.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",CMC HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57361.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",BRAVO TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/106281.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",KCN KOPERNIKUS 1
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57360.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",TOXIC TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57358.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",TOXIC FOLK HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57357.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",TOXIC RAP HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/93541.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",IMPERIA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105347.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",EXTRA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83896.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC" tvg-logo="/noicon.-",BALKANIKA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57356.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",BRAVO MUSIC
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57355.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",POSAVINA TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57354.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",DOBRA TV MUZICKA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105205.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",UZIVOTEKA 24/7 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105238.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",CITY PLAY
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57350.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",KLAPE I TAMBURE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57349.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",SEVDAH TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57348.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",YU PLANET
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57347.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",IZVORNA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57346.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",DUGA TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57345.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",JUGOTON TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57343.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK MUSIC
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57342.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK MUSIC 2
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57341.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK FOLK
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57340.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK FOLK 2
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57339.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK HITS
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57338.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK HITS 2
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57337.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK & ROLL
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57336.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PINK KONCERT
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57335.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",KAFANSKO VECE FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83260.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",PESTER TV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83897.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",SEHARA FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/83895.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",BANOVINA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57322.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",B1 TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/98499.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MTV
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57333.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MTV 80s
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57332.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MTV 00s
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89956.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MUZZIK JEKA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89949.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MUZZIK MEDITERANEO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89948.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MUZZIK OKK
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89947.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MUZZIK ROCK&ROLL
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89946.ts
+#EXTINF:-1 group-title="MUZICKI/MUSIC",MUZZIK WORLDWIDE
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89944.ts
+#EXTINF:-1 group-title="EX YU SPORT",MAXSPORT 1 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57448.ts
+#EXTINF:-1 group-title="EX YU SPORT",MAXSPORT 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/106109.ts
+#EXTINF:-1 group-title="EX YU SPORT",MAXSPORT 1 FHD RAW
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87156.ts
+#EXTINF:-1 group-title="EX YU SPORT",MAXSPORT 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57447.ts
+#EXTINF:-1 group-title="EX YU SPORT",MAXSPORT 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/106110.ts
+#EXTINF:-1 group-title="EX YU SPORT",MAXSPORT 2 FHD RAW
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/106111.ts
+#EXTINF:-1 group-title="EX YU SPORT",MOJA TV/MY TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57446.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1 BIH  FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/76067.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1 BiH HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57445.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 1 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70609.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57444.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70608.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57443.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 3 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70607.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57442.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 4 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/114983.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 5 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/114982.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA ADRENALIN FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/114984.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA TENIS FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/114981.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 1 BIH HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88462.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 2 BIH HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88461.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT PREMIUM 3 BIH HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88460.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57428.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57418.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 2 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57427.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 2 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57417.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 3 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57426.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 3 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57416.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 4 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57425.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 4 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57415.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 5 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57424.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 5 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57414.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 6 HD HR
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57423.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 6 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57413.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 7 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57422.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 7 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57412.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 8 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57421.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 8 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57411.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 9 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57420.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 9 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57410.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 10 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57419.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 10 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57409.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57436.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1 SR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57441.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 2 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57435.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 2 SR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57440.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 3 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57434.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 3 SR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57439.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 4 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57433.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 4 SR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57438.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 5 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57432.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 5 SR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57437.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 6 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/91749.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 7 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/91748.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 8 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/91747.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 9 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/91746.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 10 SR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/91745.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA SPORT 1X2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57408.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA FIGHT FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57407.ts
+#EXTINF:-1 group-title="EX YU SPORT",ARENA ESPORT FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57406.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87151.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 1 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88801.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 1 HR HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57403.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 2 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57399.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 3 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57398.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 4 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57397.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 5 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57396.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 6 HR FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57395.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 7 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88740.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 8 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88739.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 9 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88738.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB 10 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88737.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB FIGHT FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88199.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORT KLUB ESPORTS FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88198.ts
+#EXTINF:-1 group-title="EX YU SPORT",NOVA SPORT HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57383.ts
+#EXTINF:-1 group-title="EX YU SPORT",EUROSPORT FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57380.ts
+#EXTINF:-1 group-title="EX YU SPORT",EUROSPORT 2 FHD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57379.ts
+#EXTINF:-1 group-title="EX YU SPORT",EUROSPORT HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57382.ts
+#EXTINF:-1 group-title="EX YU SPORT",EUROSPORT 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57381.ts
+#EXTINF:-1 group-title="EX YU SPORT",EUROSPORT 4K (HEVC
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/100492.ts
+#EXTINF:-1 group-title="EX YU SPORT",SPORTSKA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57378.ts
+#EXTINF:-1 group-title="EX YU SPORT",FIGHTBOX
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/86264.ts
+#EXTINF:-1 group-title="EX YU SPORT",FIGHT NETWORK
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/70678.ts
+#EXTINF:-1 group-title="EX YU SPORT",NBA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57499.ts
+#EXTINF:-1 group-title="EX YU SPORT",CITY TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57377.ts
+#EXTINF:-1 group-title="EX YU SPORT",GP 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89680.ts
+#EXTINF:-1 group-title="EX YU SPORT",HAJDUK TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/105204.ts
+#EXTINF:-1 group-title="EX YU SPORT",ZVEZDA TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57376.ts
+#EXTINF:-1 group-title="EX YU SPORT",MNE SPORT 1 CG
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57374.ts
+#EXTINF:-1 group-title="EX YU SPORT",MNE SPORT 2 CG
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57373.ts
+#EXTINF:-1 group-title="EX YU SPORT",MNE SPORT 3 CG
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57372.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",RTCG 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57625.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",RTCG 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57624.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",TVCG MNE HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57623.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",PRVA TV CG
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57622.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",PINK M HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57621.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",NOVA M HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/88729.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",TV VIJESTI
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57618.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",GRADSKA M
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/77849.ts
+#EXTINF:-1 group-title="CRNA GORA/MONTENEGRO",ADRIA CG HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/89183.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| SLO 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57616.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| SLO 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57615.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| SLO 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57614.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Pop TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57610.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Kanal A HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57609.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Planet TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57608.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Planet 2 TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57607.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Nova24 TV HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57605.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| POP Brio HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57603.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| POP Oto HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57602.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| POP Kino HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57599.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| HBO
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57597.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| HBO 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57596.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| HBO 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57595.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinemax HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57594.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinemax 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57593.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar Premiere 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57592.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar Premiere 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57591.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar TV 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57590.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar TV 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57589.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar Action HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57588.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar Comedy HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57587.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Cinestar Fantasy HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57586.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| FOX HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57585.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| FOX Crime HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57584.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| FOX Movies HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57583.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| FOX Life HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57582.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Animal Planet HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57580.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| NatGeo HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57579.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| NatGeo Wild HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57578.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| History Channel HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57577.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| H2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/57576.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Discovery TLC HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87129.ts
+#EXTINF:-1 group-title="SLOVENIJA/SLOVENIA",SLO| Discovery Channel HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/87128.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| MRT 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66737.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| MRT 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66736.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| MRT 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66735.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| ALFA
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66733.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| SITEL HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66732.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| TELMA HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66730.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| HUGO 1 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66729.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| HUGO 2 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66728.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| HUGO 3 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66727.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| HUGO 4 HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66726.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| 24 VESTI HD
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/79169.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| KANAL 5
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66725.ts
+#EXTINF:-1 group-title="MAKEDONIJA/MACEDONIA",MK| TV SONCE
+http://bubyly.com:8080/live/danijelavukelic/08c3db9fd57949d6/66721.ts
