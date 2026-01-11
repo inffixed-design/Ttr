@@ -1,95 +1,114 @@
 #EXTM3U
 
 #################### EX-YU ####################
-#EXTINF:-1 tvg-chno="1" group-title="EX-YU",AMC HD
+#EXTINF:-1 group-title="EX-YU",001 AMC HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302969.ts
-#EXTINF:-1 tvg-chno="2" group-title="EX-YU",AXN HD
+#EXTINF:-1 group-title="EX-YU",002 AXN HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302971.ts
-#EXTINF:-1 tvg-chno="3" group-title="EX-YU",AXN SPIN HD
+#EXTINF:-1 group-title="EX-YU",003 AXN SPIN HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302972.ts
-#EXTINF:-1 tvg-chno="4" group-title="EX-YU",Cinestar TV 1 HD
+#EXTINF:-1 group-title="EX-YU",004 Cinestar TV 1 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302977.ts
-#EXTINF:-1 tvg-chno="5" group-title="EX-YU",DA Vinci HD
+#EXTINF:-1 group-title="EX-YU",005 DA Vinci HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302984.ts
-#EXTINF:-1 tvg-chno="6" group-title="EX-YU",DIVA HD
+#EXTINF:-1 group-title="EX-YU",006 DIVA HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302987.ts
-#EXTINF:-1 tvg-chno="7" group-title="EX-YU",Dobra HD
+#EXTINF:-1 group-title="EX-YU",007 Dobra HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302988.ts
-#EXTINF:-1 tvg-chno="8" group-title="EX-YU",Dobra Exclusive HD
+#EXTINF:-1 group-title="EX-YU",008 Dobra Exclusive HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302990.ts
-#EXTINF:-1 tvg-chno="9" group-title="EX-YU",Dobra Sevdah HD
+#EXTINF:-1 group-title="EX-YU",009 Dobra Sevdah HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302994.ts
-#EXTINF:-1 tvg-chno="10" group-title="EX-YU",E! HD
+#EXTINF:-1 group-title="EX-YU",010 E! HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302996.ts
-#EXTINF:-1 tvg-chno="11" group-title="EX-YU",Elita7 LIVE 1 HD
+#EXTINF:-1 group-title="EX-YU",011 Elita7 LIVE 1 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302997.ts
-#EXTINF:-1 tvg-chno="12" group-title="EX-YU",Elita7 LIVE 2 HD
+#EXTINF:-1 group-title="EX-YU",012 Elita7 LIVE 2 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302998.ts
-#EXTINF:-1 tvg-chno="13" group-title="EX-YU",Elita7 LIVE 3 HD
+#EXTINF:-1 group-title="EX-YU",013 Elita7 LIVE 3 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302999.ts
-#EXTINF:-1 tvg-chno="14" group-title="EX-YU",Elita7 LIVE 4 HD
+#EXTINF:-1 group-title="EX-YU",014 Elita7 LIVE 4 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303000.ts
-#EXTINF:-1 tvg-chno="15" group-title="EX-YU",LOV I Ribolov HD
+#EXTINF:-1 group-title="EX-YU",015 LOV I Ribolov HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303020.ts
-#EXTINF:-1 tvg-chno="16" group-title="EX-YU",Minimax HD
+#EXTINF:-1 group-title="EX-YU",016 Minimax HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303021.ts
-#EXTINF:-1 tvg-chno="17" group-title="EX-YU",MOJA TV Premijer LIGA HD
+#EXTINF:-1 group-title="EX-YU",017 MOJA TV Premijer LIGA HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303022.ts
-#EXTINF:-1 tvg-chno="18" group-title="EX-YU",NOVA Series HD
+#EXTINF:-1 group-title="EX-YU",018 NOVA Series HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303027.ts
-#EXTINF:-1 tvg-chno="19" group-title="EX-YU",RTL HD
+#EXTINF:-1 group-title="EX-YU",019 RTL HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303028.ts
-#EXTINF:-1 tvg-chno="20" group-title="EX-YU",RTL 2 HD
+#EXTINF:-1 group-title="EX-YU",020 RTL 2 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303029.ts
-#EXTINF:-1 tvg-chno="21" group-title="EX-YU",RTL Adria HD
+#EXTINF:-1 group-title="EX-YU",021 RTL Adria HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303030.ts
-#EXTINF:-1 tvg-chno="22" group-title="EX-YU",RTL Crime HD
+#EXTINF:-1 group-title="EX-YU",022 RTL Crime HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303031.ts
-#EXTINF:-1 tvg-chno="23" group-title="EX-YU",RTL Kockica HD
+#EXTINF:-1 group-title="EX-YU",023 RTL Kockica HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303032.ts
-#EXTINF:-1 tvg-chno="24" group-title="EX-YU",RTL Living HD
+#EXTINF:-1 group-title="EX-YU",024 RTL Living HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303033.ts
-#EXTINF:-1 tvg-chno="25" group-title="EX-YU",RTL Passion HD
+#EXTINF:-1 group-title="EX-YU",025 RTL Passion HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303034.ts
-#EXTINF:-1 tvg-chno="26" group-title="EX-YU",RTL PLUS HD
+#EXTINF:-1 group-title="EX-YU",026 RTL PLUS HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303035.ts
-#EXTINF:-1 tvg-chno="27" group-title="EX-YU",TV 1000 HD
+#EXTINF:-1 group-title="EX-YU",027 TV 1000 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303044.ts
-#EXTINF:-1 tvg-chno="28" group-title="EX-YU",TV Istok HD
+#EXTINF:-1 group-title="EX-YU",028 TV Istok HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303045.ts
-#EXTINF:-1 tvg-chno="29" group-title="EX-YU",Viasat Explore HD
+#EXTINF:-1 group-title="EX-YU",029 Viasat Explore HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303046.ts
-#EXTINF:-1 tvg-chno="30" group-title="EX-YU",Viasat Nature HD
+#EXTINF:-1 group-title="EX-YU",030 Viasat Nature HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303047.ts
 
+
 #################### MOVIES ####################
-#EXTINF:-1 tvg-chno="101" group-title="MOVIES",Cinemax HD
+#EXTINF:-1 group-title="MOVIES",101 Cinemax HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302975.ts
-#EXTINF:-1 tvg-chno="102" group-title="MOVIES",Cinemax 2 HD
+#EXTINF:-1 group-title="MOVIES",102 Cinemax 2 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302976.ts
-#EXTINF:-1 tvg-chno="103" group-title="MOVIES",Cinestar TV 2 HD
+#EXTINF:-1 group-title="MOVIES",103 Cinestar TV 2 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302978.ts
-#EXTINF:-1 tvg-chno="104" group-title="MOVIES",Cinestar TV Action HD
+#EXTINF:-1 group-title="MOVIES",104 Cinestar TV Action HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302979.ts
-#EXTINF:-1 tvg-chno="105" group-title="MOVIES",Cinestar TV Comedy HD
+#EXTINF:-1 group-title="MOVIES",105 Cinestar TV Comedy HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302980.ts
-#EXTINF:-1 tvg-chno="106" group-title="MOVIES",Cinestar TV Premiere 1 HD
+#EXTINF:-1 group-title="MOVIES",106 Cinestar TV Premiere 1 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302981.ts
+#EXTINF:-1 group-title="MOVIES",107 Filmbox Extra HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303007.ts
+#EXTINF:-1 group-title="MOVIES",108 Filmbox Stars HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303008.ts
+#EXTINF:-1 group-title="MOVIES",109 FOX Movies HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303013.ts
+
 
 #################### SPORTS ####################
-#EXTINF:-1 tvg-chno="201" group-title="SPORTS",Arena Sport 6 HD
+#EXTINF:-1 group-title="SPORTS",201 Arena Sport 6 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302970.ts
-#EXTINF:-1 tvg-chno="202" group-title="SPORTS",Eurosport 1 HD
+#EXTINF:-1 group-title="SPORTS",202 Eurosport 1 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303004.ts
-#EXTINF:-1 tvg-chno="203" group-title="SPORTS",Eurosport 2 HD
+#EXTINF:-1 group-title="SPORTS",203 Eurosport 2 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303005.ts
+#EXTINF:-1 group-title="SPORTS",204 Sport KLUB 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303036.ts
+#EXTINF:-1 group-title="SPORTS",205 Sport KLUB 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303037.ts
+#EXTINF:-1 group-title="SPORTS",206 Sport KLUB 4 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303038.ts
+#EXTINF:-1 group-title="SPORTS",207 Sport KLUB 5 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303039.ts
+#EXTINF:-1 group-title="SPORTS",208 Sport KLUB 7 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303040.ts
+#EXTINF:-1 group-title="SPORTS",209 Sport KLUB 8 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/303041.ts
+
 
 #################### KIDS ####################
-#EXTINF:-1 tvg-chno="301" group-title="KIDS",BABY TV HD
+#EXTINF:-1 group-title="KIDS",301 BABY TV HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302973.ts
-#EXTINF:-1 tvg-chno="302" group-title="KIDS",Nickelodeon HD
+#EXTINF:-1 group-title="KIDS",302 Nickelodeon HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303026.ts
-#EXTINF:-1 tvg-chno="303" group-title="KIDS",Tom and Jerry HD
+#EXTINF:-1 group-title="KIDS",303 Tom and Jerry HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/303043.ts
-
-
