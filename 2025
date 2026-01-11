@@ -1,114 +1,121 @@
 #EXTM3U
 
-#################### EX-YU ####################
-#EXTINF:-1 group-title="EX-YU",001 AMC HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302969.ts
-#EXTINF:-1 group-title="EX-YU",002 AXN HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302971.ts
-#EXTINF:-1 group-title="EX-YU",003 AXN SPIN HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302972.ts
-#EXTINF:-1 group-title="EX-YU",004 Cinestar TV 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302977.ts
-#EXTINF:-1 group-title="EX-YU",005 DA Vinci HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302984.ts
-#EXTINF:-1 group-title="EX-YU",006 DIVA HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302987.ts
-#EXTINF:-1 group-title="EX-YU",007 Dobra HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302988.ts
-#EXTINF:-1 group-title="EX-YU",008 Dobra Exclusive HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302990.ts
-#EXTINF:-1 group-title="EX-YU",009 Dobra Sevdah HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302994.ts
-#EXTINF:-1 group-title="EX-YU",010 E! HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302996.ts
-#EXTINF:-1 group-title="EX-YU",011 Elita7 LIVE 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302997.ts
-#EXTINF:-1 group-title="EX-YU",012 Elita7 LIVE 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302998.ts
-#EXTINF:-1 group-title="EX-YU",013 Elita7 LIVE 3 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302999.ts
-#EXTINF:-1 group-title="EX-YU",014 Elita7 LIVE 4 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303000.ts
-#EXTINF:-1 group-title="EX-YU",015 LOV I Ribolov HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303020.ts
-#EXTINF:-1 group-title="EX-YU",016 Minimax HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303021.ts
-#EXTINF:-1 group-title="EX-YU",017 MOJA TV Premijer LIGA HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303022.ts
-#EXTINF:-1 group-title="EX-YU",018 NOVA Series HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303027.ts
-#EXTINF:-1 group-title="EX-YU",019 RTL HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303028.ts
-#EXTINF:-1 group-title="EX-YU",020 RTL 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303029.ts
-#EXTINF:-1 group-title="EX-YU",021 RTL Adria HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303030.ts
-#EXTINF:-1 group-title="EX-YU",022 RTL Crime HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303031.ts
-#EXTINF:-1 group-title="EX-YU",023 RTL Kockica HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303032.ts
-#EXTINF:-1 group-title="EX-YU",024 RTL Living HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303033.ts
-#EXTINF:-1 group-title="EX-YU",025 RTL Passion HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303034.ts
-#EXTINF:-1 group-title="EX-YU",026 RTL PLUS HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303035.ts
-#EXTINF:-1 group-title="EX-YU",027 TV 1000 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303044.ts
-#EXTINF:-1 group-title="EX-YU",028 TV Istok HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303045.ts
-#EXTINF:-1 group-title="EX-YU",029 Viasat Explore HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303046.ts
-#EXTINF:-1 group-title="EX-YU",030 Viasat Nature HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303047.ts
+#EX-YU GENERAL
+#EXTINF:-1,EX-YU: AMC HD
+http://filex.tv:8080//live/Home329/Sohailhome/302969.ts
+#EXTINF:-1,EX-YU: AXN HD
+http://filex.tv:8080//live/Home329/Sohailhome/302971.ts
+#EXTINF:-1,EX-YU: AXN SPIN HD
+http://filex.tv:8080//live/Home329/Sohailhome/302972.ts
+#EXTINF:-1,EX-YU: Cinestar TV 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302977.ts
+#EXTINF:-1,EX-YU: DA Vinci HD
+http://filex.tv:8080//live/Home329/Sohailhome/302984.ts
+#EXTINF:-1,EX-YU: Dobra HD
+http://filex.tv:8080//live/Home329/Sohailhome/302988.ts
+#EXTINF:-1,EX-YU: Dobra Exclusive HD
+http://filex.tv:8080//live/Home329/Sohailhome/302990.ts
+#EXTINF:-1,EX-YU: Dobra Sevdah HD
+http://filex.tv:8080//live/Home329/Sohailhome/302994.ts
+#EXTINF:-1,EX-YU: E! HD
+http://filex.tv:8080//live/Home329/Sohailhome/302996.ts
+#EXTINF:-1,EX-YU: Elita7 LIVE 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302997.ts
+#EXTINF:-1,EX-YU: Elita7 LIVE 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302998.ts
+#EXTINF:-1,EX-YU: Elita7 LIVE 3 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302999.ts
+#EXTINF:-1,EX-YU: Elita7 LIVE 4 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303000.ts
+#EXTINF:-1,EX-YU: LOV I Ribolov HD
+http://filex.tv:8080//live/Home329/Sohailhome/303020.ts
+#EXTINF:-1,EX-YU: Minimax HD
+http://filex.tv:8080//live/Home329/Sohailhome/303021.ts
+#EXTINF:-1,EX-YU: MOJA TV Premijer LIGA HD
+http://filex.tv:8080//live/Home329/Sohailhome/303022.ts
+#EXTINF:-1,EX-YU: NOVA Series HD
+http://filex.tv:8080//live/Home329/Sohailhome/303027.ts
+#EXTINF:-1,EX-YU: RTL HD
+http://filex.tv:8080//live/Home329/Sohailhome/303028.ts
+#EXTINF:-1,EX-YU: RTL 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303029.ts
+#EXTINF:-1,EX-YU: RTL Adria HD
+http://filex.tv:8080//live/Home329/Sohailhome/303030.ts
+#EXTINF:-1,EX-YU: RTL Crime HD
+http://filex.tv:8080//live/Home329/Sohailhome/303031.ts
+#EXTINF:-1,EX-YU: RTL Kockica HD
+http://filex.tv:8080//live/Home329/Sohailhome/303032.ts
+#EXTINF:-1,EX-YU: RTL Living HD
+http://filex.tv:8080//live/Home329/Sohailhome/303033.ts
+#EXTINF:-1,EX-YU: RTL Passion HD
+http://filex.tv:8080//live/Home329/Sohailhome/303034.ts
+#EXTINF:-1,EX-YU: RTL PLUS HD
+http://filex.tv:8080//live/Home329/Sohailhome/303035.ts
+#EXTINF:-1,EX-YU: TV 1000 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303044.ts
+#EXTINF:-1,EX-YU: TV Istok HD
+http://filex.tv:8080//live/Home329/Sohailhome/303045.ts
+#EXTINF:-1,EX-YU: Viasat Explore HD
+http://filex.tv:8080//live/Home329/Sohailhome/303046.ts
+#EXTINF:-1,EX-YU: Viasat Nature HD
+http://filex.tv:8080//live/Home329/Sohailhome/303047.ts
 
+#SPORTS
+#EXTINF:-1,SPORTS: Arena Sport 6 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302970.ts
+#EXTINF:-1,SPORTS: Eurosport 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303004.ts
+#EXTINF:-1,SPORTS: Eurosport 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303005.ts
+#EXTINF:-1,SPORTS: Sport KLUB 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303036.ts
+#EXTINF:-1,SPORTS: Sport KLUB 3 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303037.ts
+#EXTINF:-1,SPORTS: Sport KLUB 4 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303038.ts
+#EXTINF:-1,SPORTS: Sport KLUB 5 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303039.ts
+#EXTINF:-1,SPORTS: Sport KLUB 7 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303040.ts
+#EXTINF:-1,SPORTS: Sport KLUB 8 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303041.ts
 
-#################### MOVIES ####################
-#EXTINF:-1 group-title="MOVIES",101 Cinemax HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302975.ts
-#EXTINF:-1 group-title="MOVIES",102 Cinemax 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302976.ts
-#EXTINF:-1 group-title="MOVIES",103 Cinestar TV 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302978.ts
-#EXTINF:-1 group-title="MOVIES",104 Cinestar TV Action HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302979.ts
-#EXTINF:-1 group-title="MOVIES",105 Cinestar TV Comedy HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302980.ts
-#EXTINF:-1 group-title="MOVIES",106 Cinestar TV Premiere 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302981.ts
-#EXTINF:-1 group-title="MOVIES",107 Filmbox Extra HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303007.ts
-#EXTINF:-1 group-title="MOVIES",108 Filmbox Stars HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303008.ts
-#EXTINF:-1 group-title="MOVIES",109 FOX Movies HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303013.ts
+#MOVIES
+#EXTINF:-1,MOVIES: Cinemax HD
+http://filex.tv:8080//live/Home329/Sohailhome/302975.ts
+#EXTINF:-1,MOVIES: Cinemax 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302976.ts
+#EXTINF:-1,MOVIES: Cinestar TV 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302978.ts
+#EXTINF:-1,MOVIES: Cinestar TV Action HD
+http://filex.tv:8080//live/Home329/Sohailhome/302979.ts
+#EXTINF:-1,MOVIES: Cinestar TV Comedy HD
+http://filex.tv:8080//live/Home329/Sohailhome/302980.ts
+#EXTINF:-1,MOVIES: Cinestar TV Premiere 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302981.ts
+#EXTINF:-1,MOVIES: Cinestar TV Premiere 2 HD
+http://filex.tv:8080//live/Home329/Sohailhome/302982.ts
+#EXTINF:-1,MOVIES: EURO Cinema 1 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303001.ts
+#EXTINF:-1,MOVIES: EURO Cinema 3 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303002.ts
+#EXTINF:-1,MOVIES: EURO Cinema 4 HD
+http://filex.tv:8080//live/Home329/Sohailhome/303003.ts
+#EXTINF:-1,MOVIES: Filmbox Arthouse HD
+http://filex.tv:8080//live/Home329/Sohailhome/303006.ts
+#EXTINF:-1,MOVIES: Filmbox Extra HD
+http://filex.tv:8080//live/Home329/Sohailhome/303007.ts
+#EXTINF:-1,MOVIES: Filmbox Stars HD
+http://filex.tv:8080//live/Home329/Sohailhome/303008.ts
 
-
-#################### SPORTS ####################
-#EXTINF:-1 group-title="SPORTS",201 Arena Sport 6 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302970.ts
-#EXTINF:-1 group-title="SPORTS",202 Eurosport 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303004.ts
-#EXTINF:-1 group-title="SPORTS",203 Eurosport 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303005.ts
-#EXTINF:-1 group-title="SPORTS",204 Sport KLUB 2 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303036.ts
-#EXTINF:-1 group-title="SPORTS",205 Sport KLUB 3 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303037.ts
-#EXTINF:-1 group-title="SPORTS",206 Sport KLUB 4 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303038.ts
-#EXTINF:-1 group-title="SPORTS",207 Sport KLUB 5 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303039.ts
-#EXTINF:-1 group-title="SPORTS",208 Sport KLUB 7 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303040.ts
-#EXTINF:-1 group-title="SPORTS",209 Sport KLUB 8 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303041.ts
-
-
-#################### KIDS ####################
-#EXTINF:-1 group-title="KIDS",301 BABY TV HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302973.ts
-#EXTINF:-1 group-title="KIDS",302 Nickelodeon HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303026.ts
-#EXTINF:-1 group-title="KIDS",303 Tom and Jerry HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/303043.ts
+#KIDS
+#EXTINF:-1,KIDS: BABY TV HD
+http://filex.tv:8080//live/Home329/Sohailhome/302973.ts
+#EXTINF:-1,KIDS: Minimax HD
+http://filex.tv:8080//live/Home329/Sohailhome/303021.ts
+#EXTINF:-1,KIDS: NICK JR HD
+http://filex.tv:8080//live/Home329/Sohailhome/303025.ts
+#EXTINF:-1,KIDS: Nickelodeon HD
+http://filex.tv:8080//live/Home329/Sohailhome/303026.ts
+#EXTINF:-1,KIDS: TOM AND Jerry HD
+http://filex.tv:8080//live/Home329/Sohailhome/303043.ts
